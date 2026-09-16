@@ -1,2 +1,8 @@
 # APEX-TEAM
-Building a main project on agent ai and gen ai
+TEAM LEADER  - G. MOHAN ADITHYA     246F1A6713  AGENTIC AI DEVELOPER
+TEAM MEMBERS - K. NIKITHA REDDY     246F1A6754  
+               S. THANU SREE REDDY  246F1A6761  GEN AI ENGINEER
+               C. MANISHA           256F5A6705  GEN AI ENGINEER
+               P. PADMINI           246F1A6760  GEN AI ENGINEER
+
+DISCRIPTION - Building a main project on agent ai and gen ai in SAP CODE UNNATI COURSE
